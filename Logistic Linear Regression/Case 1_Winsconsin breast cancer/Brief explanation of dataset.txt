@@ -1,0 +1,2 @@
+(Train) Winsconsin_breast_cancer is used to train your model
+New_case_winsconsin_breast_cancer is a new dataset to test your model
